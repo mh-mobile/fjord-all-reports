@@ -75,7 +75,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>loading...</string>
 				<key>script</key>
 				<string>ruby action.rb {query}</string>
 				<key>scriptargtype</key>
@@ -83,7 +83,7 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string></string>
+				<string>Search all reports</string>
 				<key>title</key>
 				<string>fjord-all-reports</string>
 				<key>type</key>
