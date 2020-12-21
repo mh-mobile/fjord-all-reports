@@ -131,7 +131,7 @@
 		<string>password</string>
 	</array>
 	<key>version</key>
-	<string>v1.1.0</string>
+	<string>1.2.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
